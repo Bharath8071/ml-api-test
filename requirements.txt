@@ -1,1 +1,7 @@
-flask
+pandas
+numpy
+pickle  
+networkx
+matplotlib
+os      
+sys     
