@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-10-06">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <nodes>
+      <node id="172.16.0.1" label="172.16.0.1" />
+      <node id="192.168.10.50" label="192.168.10.50" />
+    </nodes>
+    <edges>
+      <edge source="172.16.0.1" target="192.168.10.50" id="0">
+        <attvalues>
+          <attvalue for="0" value="SSH-Patator" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
