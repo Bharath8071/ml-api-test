@@ -1,7 +1,5 @@
+flask
 pandas
 numpy
-pickle  
-networkx
-matplotlib
-os      
-sys     
+scikit-learn
+gunicorn
